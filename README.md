@@ -8,8 +8,7 @@ For example, if the coordinates are (10.2345678_50.98765454), submit the value F
 
 ### How to solve
 1. Open google maps and try to find the location of where this picture was taken.
-
-2. 
+ 
 ### Find me
 ![FIND_ME](FIND_ME.jpeg)
 
